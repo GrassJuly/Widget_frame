@@ -3,10 +3,6 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
-
-    <color name="colorPrimary">#f36a5a</color>
-    <color name="colorPrimaryDark">#f36a5a</color>
-    <color name="colorAccent">#f36a5a</color>
     <color name="mn_home_title_bg">#32CD00</color>
     <color name="mn_common_transparent">#00000000</color>
     <color name="color_white">#ffffff</color>
